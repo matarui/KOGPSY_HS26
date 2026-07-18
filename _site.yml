@@ -1,0 +1,12 @@
+name: "KOGPSY"
+title: "KOGPSY"
+description: |
+  KOGPSY
+output_dir: "docs"
+navbar:
+  logo:
+    image: photos/unibas.png
+    href: https://cds.unibas.ch
+output:
+  distill::distill_article:
+    toc: true
