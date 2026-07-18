@@ -1,7 +1,7 @@
 ---
 title: "KOGPSY"
 description: |
-  Welcome to the website for *Kognitionspsychologie I* HS25 ([23263-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=292417))
+  Welcome to the website for *Kognitionspsychologie I* HS26 ([23263-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=301261))
   
   Instructor: [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
@@ -31,16 +31,16 @@ Slides will be made available shortly before each session.
 ::: l-body
 | # | Date     | Topic                         | Slides |
 |---| ---------|-------------------------------|--------|
-| 1 | 23.09.2025 | Session 1: Introduction | [pdf](presentations/KOGPSY_session1.pdf) |
-| 2 | 07.10.2025 | Session 2: What is intelligence? | [pdf](presentations/KOGPSY_session2.pdf) |
-| 3 | 14.10.2025 | Session 3: Perception | [pdf](presentations/KOGPSY_session3.pdf) |
-| 4 | 21.10.2025 | Session 4: Spatial cognition | [pdf](presentations/KOGPSY_session4.pdf) |
-| 5 | 04.10.2025 | Session 5: Numerical cognition | [pdf](presentations/KOGPSY_session5.pdf) |
-| 6 | 11.11.2025 | Session 6: Language | [pdf](presentations/KOGPSY_session6.pdf) |
-| 7 | 18.11.2025 | Session 7: Memory | [pdf](presentations/KOGPSY_session7.pdf) |
-| 8 | 25.11.2025 | Session 8: Consciousness | [pdf](presentations/KOGPSY_session8.pdf) |
-| 9 | 02.12.2025 | Session 9: Applications | [pdf](presentations/KOGPSY_session9.pdf) |
-|10 | 09.12.2025 | Session 10: Wrap-up and Q&A | [pdf](presentations/KOGPSY_session10.pdf) |
+| 1 | 22.09.2026 | Session 1: Introduction | [pdf](index.html) |
+| 2 | 06.10.2026 | Session 2: What is intelligence? | [pdf](index.html) |
+| 3 | 13.10.2026 | Session 3: Perception | [pdf](index.html) |
+| 4 | 20.10.2026 | Session 4: Spatial cognition | [pdf](index.html) |
+| 5 | 03.11.2026 | Session 5: Numerical cognition | [pdf](index.html) |
+| 6 | 17.11.2026 | Session 6: Language | [pdf](index.html) |
+| 7 | 24.11.2026 | Session 7: Memory | [pdf](index.html) |
+| 8 | 01.02.2026 | Session 8: Consciousness | [pdf](index.html) |
+| 9 | 08.12.2026 | Session 9: Applications | [pdf](index.html) |
+|10 | 15.12.2026 | Session 10: Wrap-up and Q&A | [pdf](index.html) |
 :::
 
 # What is this course about?
@@ -58,7 +58,7 @@ By completing the course you can expect to...
 
 # How should you use this website?
 
-This website is designed to help course participants get an overview of the course, including a listing of recommended readings (see below) and the course slides (see table above). A [FORUM](https://adam.unibas.ch/goto_adam_crs_1995494.html) is available on ADAM to facilitate exchange between course participants. 
+This website is designed to help course participants get an overview of the course, including a listing of recommended readings (see below) and the course slides (see table above). 
 
 **Recommended Readings**
 
