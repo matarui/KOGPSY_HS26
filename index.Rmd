@@ -26,7 +26,6 @@ knitr::opts_chunk$set(echo = FALSE)
 # Session information
 
 Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
-Slides will be made available shortly before each session. 
 
 ::: l-body
 | # | Date     | Topic                         | Slides |
