@@ -33,7 +33,7 @@ Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
 | 1 | 22.09.2026 | Session 1: Introduction | [pdf](presentations/KOGPSY_session1.pdf) |
 | 2 | 06.10.2026 | Session 2: What is intelligence? | [pdf](presentations/KOGPSY_session2.pdf) |
 | 3 | 13.10.2026 | Session 3: Perception | [pdf](presentations/KOGPSY_session3.pdf) |
-| 4 | 20.10.2026 | Session 4: Spatial cognition | [pdf](index.html) |
+| 4 | 20.10.2026 | Session 4: Spatial cognition | [pdf](presentations/KOGPSY_session4.pdf) |
 | 5 | 03.11.2026 | Session 5: Numerical cognition | [pdf](index.html) |
 | 6 | 17.11.2026 | Session 6: Language | [pdf](index.html) |
 | 7 | 24.11.2026 | Session 7: Memory | [pdf](index.html) |
