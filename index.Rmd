@@ -36,7 +36,7 @@ Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
 | 4 | 20.10.2026 | Session 4: Spatial cognition | [pdf](presentations/KOGPSY_session4.pdf) |
 | 5 | 03.11.2026 | Session 5: Numerical cognition | [pdf](presentations/KOGPSY_session5.pdf) |
 | 6 | 17.11.2026 | Session 6: Language | [pdf](presentations/KOGPSY_session6.pdf) |
-| 7 | 24.11.2026 | Session 7: Memory | [pdf](index.html) |
+| 7 | 24.11.2026 | Session 7: Memory | [pdf](presentations/KOGPSY_session7.pdf) |
 | 8 | 01.02.2026 | Session 8: Consciousness | [pdf](index.html) |
 | 9 | 08.12.2026 | Session 9: Applications | [pdf](index.html) |
 |10 | 15.12.2026 | Session 10: Wrap-up and Q&A | [pdf](index.html) |
